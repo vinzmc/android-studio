@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">week02_00000033942</string>
+    <string name="angka1">Masukan Angka</string>
+    <string name="angka2">Masukan Angka</string>
+    <string name="btnTambah">Tambah</string>
+    <string name="btnKurang">Kurang</string>
+    <string name="btnKali">Kali</string>
+    <string name="btnBagi">Bagi</string>
+    <string name="hasil">Hasil :</string>
+</resources>

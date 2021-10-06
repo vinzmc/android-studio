@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week04b_00000033942</string>
+    <string name="nama">Maurice Marvin</string>
+    <string name="btnHalaman1">Halaman 1</string>
+    <string name="btnHalaman2">Halaman 2</string>
+    <string name="input">Tulisan</string>
+    <string name="btnKirim">Ganti Tulisan</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MauriceMarvin_00000033942_IF570L_C_UTS</string>
+
+    <string name="profile_kelas">IF 570-CL</string>
+    <string name="profile_nim">00000033942</string>
+    <string name="profile_nama">Maurice Marvin</string>
+    <string name="profile_picture_description">Profile Picture</string>
+    <string name="profile_referensi">REFERENSI :</string>
+    <string name="referensi1">google.com</string>
+    <string name="referensi2">developer.android.com/reference</string>
+    <string name="referensi3">stackoverflow.com</string>
+    <string name="login_page_title">Login Page</string>
+    <string name="login_input_hint">Enter your name</string>
+    <string name="login_button">Login</string>
+    <string name="main_activity_profile_button">Profile</string>
+    <string name="main_activity_library_button">Library</string>
+    <string name="menu_title">SFX Library and Previewer</string>
+    <string name="sound_icon">Sound Icon</string>
+    <string name="sfx_library_and_previewer">SFX Library and Previewer</string>
+    <string name="category">Category</string>
+    <string name="sfx_viwer_play_button">Play SFX</string>
+    <string name="sfx_title">sfx title</string>
+    <string name="sfx_category">sfx category</string>
+    <string name="adapter_button">Delete</string>
+</resources>

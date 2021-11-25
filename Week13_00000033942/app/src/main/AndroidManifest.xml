@@ -30,6 +30,10 @@
             android:value="@string/google_maps_key" />
 
         <activity
+            android:name=".TambahObject"
+            android:exported="false"
+            android:label="@string/title_activity_tambah_object" />
+        <activity
             android:name=".MapsActivity"
             android:exported="true"
             android:label="@string/title_activity_maps">
